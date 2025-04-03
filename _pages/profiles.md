@@ -47,9 +47,21 @@ groups:
             {% assign profile_image_class = 'img-fluid rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+          {% if profile.url %}
+            <a href="{{ profile.url }}" target="_blank">
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+            </a>
+          {% else %}
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+          {% endif %}
         {% endif %}
-        <h3 class="profile-name">{{ profile.name }}</h3>
+        {% if profile.name %}
+          {% if profile.url %}
+            <h3 class="profile-name"><a href="{{ profile.url }}" target="_blank">{{ profile.name }}</a></h3>
+          {% else %}
+            <h3 class="profile-name">{{ profile.name }}</h3>
+          {% endif %}
+        {% endif %}
       </div>
     {% endfor %}
   </div>
