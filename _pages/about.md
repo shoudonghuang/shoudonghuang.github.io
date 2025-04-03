@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Robotics Institute, University of Technology Sydney, Sdyney
 
 profile:
   align: right
@@ -21,14 +21,13 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Professor in the School of Mechanical and Mechatronic Engineering at UTS and an internationally recognised researcher whose work focusses on mobile robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have published more than 200 research papers, and was named as one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. I was appointed as an Associate Editor for two leading journals in robotics, IEEE Transactions on Robotics (from 2019 to 2022) and International Journal of Robotics Research (from 2024 to 2025). I was also appointed as an editor for one of the two main large robotics conferences, IEEE/RSJ International Conference on Intelligent Robots and Systems, from 2020 to 2022. He served as the Publication Chair for the top robotics conference, Robotics: Science and Systems (RSS) 2022, and the Registration Chair for RSS 2023. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[Email](mailto:Shoudong.Huang@uts.edu.au)  / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao) 
