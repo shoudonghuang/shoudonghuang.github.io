@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Robotics Institute, University of Technology Sydney, Sdyney
 
