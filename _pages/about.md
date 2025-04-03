@@ -23,11 +23,11 @@ announcements:
 
 scholar:
   sort_by: year
-  order: descending  # can be either "ascending" or "descending"
+  order: descending # can be either "ascending" or "descending"
 ---
 
 I am a Professor in the School of Mechanical and Mechatronic Engineering at UTS and an internationally recognised researcher whose work focusses on mobile robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
 
-I have published more than 200 research papers, and was named as one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. I was appointed as an Associate Editor for two leading journals in robotics, IEEE Transactions on Robotics (from 2019 to 2022) and International Journal of Robotics Research (from 2024 to 2025). I was also appointed as an editor for one of the two main large robotics conferences, IEEE/RSJ International Conference on Intelligent Robots and Systems, from 2020 to 2022. He served as the Publication Chair for the top robotics conference, Robotics: Science and Systems (RSS) 2022, and the Registration Chair for RSS 2023. 
+I have published more than 200 research papers, and was named as one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. I was appointed as an Associate Editor for two leading journals in robotics, IEEE Transactions on Robotics (from 2019 to 2022) and International Journal of Robotics Research (from 2024 to 2025). I was also appointed as an editor for one of the two main large robotics conferences, IEEE/RSJ International Conference on Intelligent Robots and Systems, from 2020 to 2022. He served as the Publication Chair for the top robotics conference, Robotics: Science and Systems (RSS) 2022, and the Registration Chair for RSS 2023.
 
-[Email](mailto:Shoudong.Huang@uts.edu.au)  / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao) 
+[Email](mailto:Shoudong.Huang@uts.edu.au) / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao)
