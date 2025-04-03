@@ -11,24 +11,25 @@ groups:
     profiles:
       - name: "Yingyu Wang"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
+        url: "https://wangyingyu.github.io"
       - name: "Tiancheng Li"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
       - name: "Yang Song"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
   - name: "Alumni"
     profiles:
       - name: "David"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
       - name: "Eve"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
       - name: "Frank"
         image: prof_pic.jpg
-        image_circular: false
+        image_circular: true
 ---
 
 {% for group in page.groups %}
