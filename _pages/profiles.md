@@ -10,7 +10,7 @@ groups:
   - name: "Current Student"
     profiles:
       - name: "Yingyu Wang"
-        image: prof_pic.jpg
+        image: YingyuWang.png
         image_circular: true
         url: "https://wangyingyu.github.io"
       - name: "Tiancheng Li"
@@ -38,11 +38,11 @@ groups:
   <h2>{{ group.name }}</h2>
   <div class="row">
     {% for profile in group.profiles %}
-      <div class="col-md-4 col-sm-6 text-center profile-item" style="margin-bottom: 30px;">
+      <div class="col-md-3 col-sm-6 text-center profile-item" style="margin-bottom: 30px;">
         {% if profile.image %}
           {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
           {% if profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid rounded-circle' %}
+            {% assign profile_image_class = 'img-fluid img-circular' %}
           {% else %}
             {% assign profile_image_class = 'img-fluid rounded' %}
           {% endif %}

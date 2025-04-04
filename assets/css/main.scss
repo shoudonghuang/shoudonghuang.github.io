@@ -23,3 +23,11 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom overrides for circular images
+.img-circular {
+  width: 200px;      
+  height: 200px;    
+  border-radius: 50%;  
+  object-fit: cover;   
+}
