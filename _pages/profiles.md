@@ -9,9 +9,6 @@ nav_order: 1
 groups:
   - name: "Postdoc"
     profiles:
-      - name: "Tiancheng Li"
-        image: prof_pic.jpg
-        image_circular: true
   - name: "PhD Students"
     profiles:
       - name: "Yingyu Wang"
@@ -19,6 +16,9 @@ groups:
         image_circular: true
         url: "https://wangyingyu.github.io"
       - name: "Yang Song"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Tiancheng Li"
         image: prof_pic.jpg
         image_circular: true
       - name: "Kai Pan"
@@ -40,7 +40,7 @@ groups:
         image: prof_pic.jpg
         image_circular: true
       - name: "Zhenzi Li"
-        image: prof_pic.jpg
+        image: ZhenziLi.jpg
         image_circular: true
   - name: "Master Student"
     profiles:
