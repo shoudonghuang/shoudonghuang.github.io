@@ -29,5 +29,6 @@ $max-content-width: {{ site.max_width }};
   width: 200px;      
   height: 200px;    
   border-radius: 50%;  
-  object-fit: cover;   
+  object-fit: cover;
+  object-position: 50% 0;   
 }
