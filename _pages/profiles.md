@@ -49,10 +49,10 @@ groups:
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
           {% if profile.url %}
             <a href="{{ profile.url }}" target="_blank">
-              {% include "figure.liquid" loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
             </a>
           {% else %}
-            {% include "figure.liquid" loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
           {% endif %}
         {% endif %}
         {% if profile.name %}
