@@ -7,28 +7,56 @@ nav: true
 nav_order: 1
 
 groups:
-  - name: "Current Student"
+  - name: "Postdoc"
+    profiles:
+      - name: "Tiancheng Li"
+        image: prof_pic.jpg
+        image_circular: true
+  - name: "PhD Students"
     profiles:
       - name: "Yingyu Wang"
         image: YingyuWang.png
         image_circular: true
         url: "https://wangyingyu.github.io"
-      - name: "Tiancheng Li"
+      - name: "Yang Song"
         image: prof_pic.jpg
         image_circular: true
-      - name: "Yang Song"
+      - name: "Kai Pan"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Dominik Slomma"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Yiran Zhou"
+        image: YiranZhou.jpg
+        image_circular: true
+      - name: "Isira Damsith Wijegunawardana"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Chonghao Chen"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Zhihao Xing"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Zhenzi Li"
+        image: prof_pic.jpg
+        image_circular: true
+  - name: "Master Student"
+    profiles:
+      - name: "Duc"
+        image: prof_pic.jpg
+        image_circular: true
+        url: "https://wangyingyu.github.io"
+  - name: "Visiting"
+    profiles:
+      - name: "Ranxi Liu"
         image: prof_pic.jpg
         image_circular: true
   - name: "Alumni"
     profiles:
-      - name: "David"
-        image: prof_pic.jpg
-        image_circular: true
-      - name: "Eve"
-        image: prof_pic.jpg
-        image_circular: true
-      - name: "Frank"
-        image: prof_pic.jpg
+      - name: "Mengya Xu"
+        image: MengyaXu.jpg
         image_circular: true
 ---
 
