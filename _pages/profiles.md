@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: People
-description: Members of our group
+description: Members of Our Group
 nav: true
 nav_order: 1
 
@@ -42,6 +42,9 @@ groups:
       - name: "Zhenzi Li"
         image: ZhenziLi.jpg
         image_circular: true
+      - name: "Shengduo Chen"
+        image: prof_pic.jpg
+        image_circular: true
   - name: "Master Student"
     profiles:
       - name: "Duc"
@@ -57,6 +60,24 @@ groups:
     profiles:
       - name: "Mengya Xu"
         image: MengyaXu.jpg
+        image_circular: true
+      - name: "Yanhao Zhang"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Yongbo Chen"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Jiaheng Zhao"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Yanhao Zhang"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Shuai Zhang"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Zhehua Mao"
+        image: prof_pic.jpg
         image_circular: true
 ---
 
