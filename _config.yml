@@ -6,7 +6,7 @@ title: Shoudong Huang # the website title (if blank, full name will be used inst
 first_name: Shoudong
 middle_name:
 last_name: Huang
-email: Shoudong.Huang@student.uts.edu.au
+email: Shoudong.Huang@uts.edu.au
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -72,13 +72,13 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: shoudonghuang # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: 37421307400 # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: shoudong-huang-57838025 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0002-6124-4178 # your ORCID ID
@@ -310,8 +310,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Shoudong]
+  first_name: [Huang]
 
   style: apa
   locale: en
