@@ -412,7 +412,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-our-paper-occupancy-slam-has-been-accepted-by-ieee-transactions-on-robotics-t-ro-congrats-to-yingyu-wang-check-out-the-open-source-code-here-and-read-the-full-paper-here",
+          title: 'Our paper Occupancy-SLAM has been accepted by IEEE Transactions on Robotics (T-RO)! Congrats...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
