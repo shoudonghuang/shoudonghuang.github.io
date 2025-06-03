@@ -1,0 +1,90 @@
+// Custom styles for the about page
+
+.post-header {
+  margin-bottom: 2rem;
+  text-align: left;
+  
+  .post-title {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--global-theme-color);
+  }
+  
+  .desc {
+    font-size: 1.2rem;
+    margin: 0;
+    color: var(--global-text-color-light);
+  }
+}
+
+.profile {
+  margin-bottom: 2rem;
+  
+  img {
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .more-info {
+    background-color: var(--global-card-bg-color);
+    padding: 1rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    
+    p {
+      margin: 0;
+      line-height: 1.5;
+      color: var(--global-text-color);
+    }
+  }
+}
+
+.about-section {
+  margin-bottom: 2rem;
+  
+  h3 {
+    color: var(--global-theme-color);
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.editorial-roles {
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    
+    li {
+      margin-bottom: 0.5rem;
+      padding-left: 1.5rem;
+      position: relative;
+      
+      &:before {
+        content: "•";
+        color: var(--global-theme-color);
+        position: absolute;
+        left: 0;
+      }
+    }
+  }
+}
+
+.contact-links {
+  margin-top: 2rem;
+  
+  a {
+    display: inline-block;
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--global-theme-color);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    
+    &:hover {
+      background-color: var(--global-hover-color);
+    }
+  }
+} 

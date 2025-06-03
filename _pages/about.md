@@ -26,8 +26,21 @@ scholar:
   order: descending # can be either "ascending" or "descending"
 ---
 
-I am a Professor in the School of Mechanical and Mechatronic Engineering at UTS and an internationally recognised researcher whose work focuses on mobile robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
+### About Me
 
-I have published more than 200 research papers and was named one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. I was appointed as an Associate Editor for two leading journals in robotics, IEEE Transactions on Robotics (from 2019 to 2022) and International Journal of Robotics Research (from 2024 to 2025). I was also appointed as an editor for one of the two main large robotics conferences, IEEE/RSJ International Conference on Intelligent Robots and Systems, from 2020 to 2022. I served as the Publication Chair for the top robotics conference, Robotics: Science and Systems (RSS) 2022, and the Registration Chair for RSS 2023.
+I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher whose work focuses on **mobile robot navigation** in many different areas, including search and rescue, underwater, underground mining, and surgery.
+
+### Research Impact & Leadership
+
+I have published more than 200 research papers and was named one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. 
+
+### Editorial Roles
+
+- Associate Editor: International Journal of Robotics Research (2024-2025), IEEE Transactions on Robotics (2019-2022)
+- Registration Chair: Robotics: Science and Systems (RSS) 2023
+- Publication Chair: RSS 2022
+- Editor: IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
+
+### Contact
 
 [Email](mailto:Shoudong.Huang@uts.edu.au) / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao)
