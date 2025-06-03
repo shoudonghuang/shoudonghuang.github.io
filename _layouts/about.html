@@ -40,10 +40,20 @@ layout: default
       {{ content }}
     </div>
 
+    <!-- News -->
+    {%- if page.announcements %}
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      <div class="news">
+        {%- include news.html limit=true %}
+      </div>
+    {%- endif %}
+
     <!-- Selected papers -->
     {%- if page.selected_papers -%}
-    <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
-    {%- include selected_papers.html %}
+    <div class="selected-publications">
+      <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
+      {%- include selected_papers.html %}
+    </div>
     {%- endif %}
 
     <!-- Social -->
@@ -54,12 +64,6 @@ layout: default
       </div>
       <div class="contact-note">{{ site.contact_note }}</div>
     </div>
-    {%- endif %}
-
-    <!-- News -->
-    {%- if page.announcements %}
-      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
-      {%- include news.html limit=true %}
     {%- endif %}
   </article>
 

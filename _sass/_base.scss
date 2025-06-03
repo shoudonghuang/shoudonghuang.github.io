@@ -1451,3 +1451,22 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Section spacing
+.post {
+  article {
+    // News section
+    .news {
+      margin-bottom: 3rem;  // Add space after News section
+    }
+
+    // Selected Publications section
+    .selected-publications {
+      margin-top: 3rem;  // Add space before Selected Publications
+    }
+
+    h2 {
+      margin-top: -1rem;  // Keep the negative margin for section headers
+    }
+  }
+}
