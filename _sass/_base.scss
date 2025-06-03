@@ -905,10 +905,22 @@ html.transition *:after {
     margin-top: -1rem;
     h2 {
       margin-top: -1rem;
+      margin-bottom: 1rem;
       
       &:first-of-type {
         margin-top: 2rem;
       }
+    }
+
+    // News section
+    .news {
+      margin-top: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    // Selected Publications section
+    .selected-publications {
+      margin-top: 3rem;
     }
   }
 
@@ -1418,24 +1430,5 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
-  }
-}
-
-// Section spacing
-.post {
-  article {
-    // News section
-    .news {
-      margin-bottom: 3rem;  // Add space after News section
-    }
-
-    // Selected Publications section
-    .selected-publications {
-      margin-top: 3rem;  // Add space before Selected Publications
-    }
-
-    h2 {
-      margin-top: -1rem;  // Keep the negative margin for section headers
-    }
   }
 }
