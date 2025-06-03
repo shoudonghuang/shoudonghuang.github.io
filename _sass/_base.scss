@@ -934,6 +934,9 @@ html.transition *:after {
   article {
     padding-top: 1rem;
     margin-top: -1rem;
+    h2 {
+      margin-top: -1rem;
+    }
   }
 
   .post-meta {

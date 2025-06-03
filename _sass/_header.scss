@@ -10,7 +10,7 @@
     a {
       color: var(--global-text-color);
       margin-right: 15px;
-      font-size: 3.2rem;  // Adjust icon size
+      font-size: 1.5rem;  // Adjust icon size
       transition: color 0.3s ease;
       
       &:hover {
@@ -23,7 +23,7 @@
 // Social icons styles
 .social-icons {
   .fas, .fab, .far, .ai {
-    font-size: 3.2rem;  // Adjust icon size
+    font-size: 1.5rem;  // Adjust icon size
     line-height: 1;
   }
   
