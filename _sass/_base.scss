@@ -194,21 +194,19 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   margin-top: -2rem;
 
   .more-info {
     margin-bottom: 0;
-    margin-top: 0;
+    margin-top: 0.5rem;
     font-family: monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
       font-size: 0.85rem;
+      line-height: 1.2;
     }
   }
 }
@@ -224,6 +222,7 @@ ul.task-list input[type="checkbox"] {
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+    margin-top: 0;
 
     .address {
       p {
@@ -916,23 +915,24 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 .post {
   .post-header {
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
     
     .post-title {
-      margin-bottom: 1rem;
+      margin-bottom: 0.2rem;
     }
     
     .desc {
-      margin-bottom: 1rem;
+      margin-bottom: 0.2rem;
     }
   }
   
   .clearfix {
-    margin-top: 1rem;
+    margin-top: 0.2rem;
   }
   
   article {
     padding-top: 1rem;
+    margin-top: -2rem;
   }
 
   .post-meta {
