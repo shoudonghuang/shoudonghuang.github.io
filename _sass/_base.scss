@@ -909,6 +909,26 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  .post-header {
+    margin-bottom: 1rem;
+    
+    .post-title {
+      margin-bottom: 0.5rem;
+    }
+    
+    .desc {
+      margin-bottom: 0.5rem;
+    }
+  }
+  
+  .clearfix {
+    margin-top: 0.5rem;
+  }
+  
+  article {
+    padding-top: 0.5rem;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
