@@ -1,0 +1,36 @@
+// Header styles
+
+.site-header {
+  .social-icons {
+    float: left;
+    margin-right: 20px;
+    padding-top: 15px;
+    
+    a {
+      color: var(--global-text-color);
+      margin-right: 10px;
+      font-size: 1.2rem;
+      transition: color 0.3s ease;
+      
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// Social icons styles
+.social-icons {
+  .fas, .fab, .far, .ai {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  a {
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+} 

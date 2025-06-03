@@ -26,13 +26,11 @@ scholar:
   order: descending # can be either "ascending" or "descending"
 ---
 
-### About Me
-
 I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher whose work focuses on **mobile robot navigation** in many different areas, including search and rescue, underwater, underground mining, and surgery.
 
-### Research Impact & Leadership
-
 I have published more than 200 research papers and was named one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. 
+
+[Email](mailto:Shoudong.Huang@uts.edu.au) / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao)
 
 ### Editorial Roles
 
@@ -40,7 +38,3 @@ I have published more than 200 research papers and was named one of the 100 Most
 - Registration Chair: Robotics: Science and Systems (RSS) 2023
 - Publication Chair: RSS 2022
 - Editor: IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
-
-### Contact
-
-[Email](mailto:Shoudong.Huang@uts.edu.au) / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao)
