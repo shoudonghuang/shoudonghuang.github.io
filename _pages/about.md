@@ -9,7 +9,7 @@ profile:
   image: ShoudongHuang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="margin-bottom: 5px; font-size: 0.85rem;">Room 305, Level 9, Building 11</p>
+    <p style="margin-bottom: 5px; font-size: 0.85rem;">Room 305, Level 9, Building&nbsp;11</p>
     <p style="margin-bottom: 5px; font-size: 0.85rem;">81-113 Broadway</p>
     <p style="margin-bottom: 5px; font-size: 0.85rem;">Ultimo, NSW 2007, Australia</p>
 
