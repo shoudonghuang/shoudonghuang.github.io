@@ -4,14 +4,17 @@
   .social-icons {
     float: left;
     margin-right: 20px;
-    padding-top: 2px;
+    padding-top: 0;  // Remove top padding
+    margin-top: -2px;  // Add negative margin to move icons up slightly
     display: none;  // Hide by default
     
     a {
       color: var(--global-text-color);
       margin-right: 15px;
-      font-size: 1.5rem;  // Adjust icon size
+      font-size: 2.5rem;  // Keep the increased size
       transition: color 0.3s ease;
+      display: inline-block;  // Add this for better control
+      vertical-align: middle;  // Add this for better alignment
       
       &:hover {
         color: var(--global-theme-color);
@@ -23,8 +26,9 @@
 // Social icons styles
 .social-icons {
   .fas, .fab, .far, .ai {
-    font-size: 1.5rem;  // Adjust icon size
+    font-size: 2.5rem;  // Keep the increased size
     line-height: 1;
+    vertical-align: middle;  // Add this for better alignment
   }
   
   a {
