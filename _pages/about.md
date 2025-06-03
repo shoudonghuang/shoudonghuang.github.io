@@ -34,7 +34,20 @@ I have published more than 200 research papers and was named one of the 100 Most
 
 ### Editorial Roles
 
-- Associate Editor: International Journal of Robotics Research (2024-2025), IEEE Transactions on Robotics (2019-2022)
-- Registration Chair: Robotics: Science and Systems (RSS) 2023
-- Publication Chair: RSS 2022
-- Editor: IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
+- Associate Editor: 
+
+  International Journal of Robotics Research (2024-2025)
+
+  IEEE Transactions on Robotics (2019-2022)
+
+- Registration Chair: 
+
+  Robotics: Science and Systems 2023
+
+- Publication Chair: 
+
+  Robotics: Science and Systems 2022
+
+- Editor: 
+
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
