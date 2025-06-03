@@ -412,7 +412,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-occupancy-slam-has-been-accepted-by-t-ro-congrats-to-yingyu-wang-check-out-the-open-source-code-here-and-read-the-full-paper-here",
+            },},{id: "news-our-paper-guaranteed-2d-pose-graph-slam-with-bounded-noises-an-efficient-interval-approach-has-been-accepted-for-publication-in-the-ieee-transactions-on-automation-science-and-engineering-tase-congrats-to-yang-song",
+          title: 'Our paper Guaranteed 2D Pose Graph SLAM with Bounded Noises: An Efficient Interval...',
+          description: "",
+          section: "News",},{id: "news-our-paper-partial-to-full-registration-based-on-gradient-sdf-for-computer-assisted-orthopedic-surgery-has-been-accepted-by-icra-2025-congratulations-to-tiancheng-li",
+          title: 'Our paper Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery has been...',
+          description: "",
+          section: "News",},{id: "news-our-paper-occupancy-slam-has-been-accepted-by-t-ro-congrats-to-yingyu-wang-check-out-the-open-source-code-here-and-read-the-full-paper-here",
           title: 'Our paper Occupancy-SLAM has been accepted by T-RO! Congrats to @Yingyu Wang. Check...',
           description: "",
           section: "News",},{id: "projects-project-1",
@@ -465,14 +471,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%53%68%6F%75%64%6F%6E%67.%48%75%61%6E%67@%75%74%73.%65%64%75.%61%75", "_blank");
         },
       },{
         id: 'social-rss',
@@ -486,14 +485,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=DMsPWz0AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
