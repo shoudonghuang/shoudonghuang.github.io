@@ -9,9 +9,9 @@ profile:
   image: ShoudongHuang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 305, Level 9, Building 11</p>
-    <p>81-113 Broadway, Ultimo</p>
-    <p>Sydney, NSW 2007, Australia</p>
+    <p>Room 305, Level 9</p>
+    <p>Building 11, 81-113 Broadway</p>
+    <p>Ultimo, NSW 2007, Australia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
