@@ -9,9 +9,9 @@ profile:
   image: ShoudongHuang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="margin-bottom: 5px; font-size: 0.8rem;">Room 305, Level 9, Building 11</p>
-    <p style="margin-bottom: 5px; font-size: 0.8rem;">81-113 Broadway</p>
-    <p style="margin-bottom: 5px; font-size: 0.8rem;">Ultimo, NSW 2007, Australia</p>
+    <p style="margin-bottom: 5px; font-size: 0.7rem;">Room 305, Level 9, Building 11</p>
+    <p style="margin-bottom: 5px; font-size: 0.7rem;">81-113 Broadway</p>
+    <p style="margin-bottom: 5px; font-size: 0.7rem;">Ultimo, NSW 2007, Australia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,20 +34,10 @@ I have published more than 200 research papers and was named one of the 100 Most
 
 ### Editorial Roles
 
-- Associate Editor: 
+- **Associate Editor**: International Journal of Robotics Research (2024-2025), IEEE Transactions on Robotics (2019-2022)
 
-  International Journal of Robotics Research (2024-2025)
+- **Registration Chair**: Robotics: Science and Systems 2023
 
-  IEEE Transactions on Robotics (2019-2022)
+- **Publication Chair**: Robotics: Science and Systems 2022
 
-- Registration Chair: 
-
-  Robotics: Science and Systems 2023
-
-- Publication Chair: 
-
-  Robotics: Science and Systems 2022
-
-- Editor: 
-
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
+- **Editor**: IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)

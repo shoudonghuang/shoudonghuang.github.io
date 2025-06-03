@@ -4,12 +4,12 @@
   .social-icons {
     float: left;
     margin-right: 20px;
-    padding-top: 15px;
+    padding-top: 8px;
     
     a {
       color: var(--global-text-color);
-      margin-right: 10px;
-      font-size: 1.8rem;
+      margin-right: 12px;
+      font-size: 2.2rem;
       transition: color 0.3s ease;
       
       &:hover {
@@ -22,8 +22,8 @@
 // Social icons styles
 .social-icons {
   .fas, .fab, .far, .ai {
-    font-size: 1.8rem;
-    line-height: 1.5;
+    font-size: 2.2rem;
+    line-height: 1.2;
   }
   
   a {

@@ -194,10 +194,11 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  margin-bottom: 0;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 0;
+    margin-top: 0;
     font-family: monospace;
 
     p {
@@ -910,23 +911,23 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 .post {
   .post-header {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     
     .post-title {
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem;
     }
     
     .desc {
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem;
     }
   }
   
   .clearfix {
-    margin-top: 0.5rem;
+    margin-top: 1rem;
   }
   
   article {
-    padding-top: 0.5rem;
+    padding-top: 1rem;
   }
 
   .post-meta {
