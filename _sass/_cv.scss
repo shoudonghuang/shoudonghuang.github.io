@@ -225,8 +225,9 @@ ul.timeline li::before {
 
 .list-title {
   font-size: 1rem;
-  font-style: normal;
+  font-weight: normal;
   margin-bottom: 0.5rem;
+  color: var(--global-text-color);
 }
 
 .list-item-desc {
