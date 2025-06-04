@@ -26,9 +26,13 @@ scholar:
   order: descending # can be either "ascending" or "descending"
 ---
 
-I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher whose work focuses on **mobile robot navigation** in many different areas, including search and rescue, underwater, underground mining, and surgery.
+I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher.  whose work focuses on robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
+
+I am motivated by a desire to see robots collaborating with humans and helping people in their daily lives, and my work has made significant contributions to the fields of robot **simultaneous localisation and mapping**, **operations research**, **nonlinear state estimation**, and **nonlinear robust control**.
 
 I have published more than 200 research papers and was named one of the 100 Most Influential Scholars in the field of Robotics by research profiler Aminer in 2018. 
+
+Since 2007, as a Chief Investigator, I have secured external research funding worth more than $4 million including three ARC Discovery grants, three ARC Linkage grants, and one NHMRC Ideas grant. 
 
 [Email](mailto:Shoudong.Huang@uts.edu.au) / [Google Scholar](https://scholar.google.com/citations?user=DMsPWz0AAAAJ&hl=en&oi=ao)
 
