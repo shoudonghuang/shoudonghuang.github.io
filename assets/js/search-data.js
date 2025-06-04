@@ -106,6 +106,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-robot-navigation",
+          title: 'Robot Navigation',
+          description: "Research on SLAM and Navigation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/robot_navigation/";
             },},{
         id: 'social-email',
         title: 'email',
