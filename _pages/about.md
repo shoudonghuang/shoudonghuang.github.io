@@ -26,7 +26,7 @@ scholar:
   order: descending # can be either "ascending" or "descending"
 ---
 
-I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher.  whose work focuses on robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
+I am a Professor in the School of Mechanical and Mechatronic Engineering at [UTS](https://www.uts.edu.au/) and an internationally recognised researcher whose work focuses on robot navigation in many different areas, including search and rescue, underwater, underground mining, and surgery.
 
 I am motivated by a desire to see robots collaborating with humans and helping people in their daily lives, and my work has made significant contributions to the fields of robot **simultaneous localisation and mapping**, **operations research**, **nonlinear state estimation**, and **nonlinear robust control**.
 

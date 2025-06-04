@@ -218,3 +218,43 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+/*****************************
+ * CV NESTED_LIST styles
+ *****************************/
+
+.list-title {
+  font-size: 1rem;
+  font-style: normal;
+  margin-bottom: 0.5rem;
+}
+
+.list-item-desc {
+  font-size: 1rem;
+  font-style: normal;
+  margin-bottom: 0.5rem;
+}
+
+/*****************************
+ * CV LIST styles
+ *****************************/
+
+ul.items {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+ul.subitems {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+span.item {
+  font-size: 1rem;
+  font-style: normal;
+}
+
+span.subitem {
+  font-size: 1rem;
+  font-style: normal;
+}

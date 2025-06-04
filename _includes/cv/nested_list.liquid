@@ -1,16 +1,12 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
-  {% for content in entry.contents %}
-    <li class="list-group-item">
-      <h5 class="font-italic">{{ content.title }}</h5>
-      {% if content.items %}
-        <ul class="subitems">
-          {% for subitem in content.items %}
-            <li>
-              <span class="subitem">{{ subitem }}</span>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+{% for item in entry.contents %}
+  {% if item.title %}
+    <div class="list-title">{{ item.title }}</div>
+  {% endif %}
+  {% if item.items %}
+    <ul class="items">
+      {% for subitem in item.items %}
+        <li><span class="item">{{ subitem }}</span></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
