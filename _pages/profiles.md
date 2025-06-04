@@ -50,11 +50,10 @@ groups:
       - name: "Duc"
         image: prof_pic.jpg
         image_circular: true
-        url: "https://wangyingyu.github.io"
   - name: "Visiting"
     profiles:
       - name: "Ranxi Liu"
-        image: prof_pic.jpg
+        image: RanxiLiu.jpg
         image_circular: true
   - name: "Alumni"
     profiles:
