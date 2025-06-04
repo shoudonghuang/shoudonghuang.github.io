@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-guaranteed-2d-pose-graph-slam-with-bounded-noises-an-efficient-interval-approach-has-been-accepted-for-publication-in-the-ieee-transactions-on-automation-science-and-engineering-tase-congrats-to-yang-song",
+            },},{id: "news-our-paper-grid-based-submap-joining-an-efficient-algorithm-for-simultaneously-optimizing-global-occupancy-map-and-local-submap-frames-has-been-accepted-by-iros-2024-congratulations-to-yingyu-wang",
+          title: 'Our paper Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy...',
+          description: "",
+          section: "News",},{id: "news-our-paper-guaranteed-2d-pose-graph-slam-with-bounded-noises-an-efficient-interval-approach-has-been-accepted-for-publication-in-the-ieee-transactions-on-automation-science-and-engineering-tase-congrats-to-yang-song",
           title: 'Our paper Guaranteed 2D Pose Graph SLAM with Bounded Noises: An Efficient Interval...',
           description: "",
           section: "News",},{id: "news-our-paper-partial-to-full-registration-based-on-gradient-sdf-for-computer-assisted-orthopedic-surgery-has-been-accepted-by-icra-2025-congratulations-to-tiancheng-li",
