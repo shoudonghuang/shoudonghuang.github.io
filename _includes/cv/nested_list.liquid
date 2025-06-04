@@ -1,11 +1,9 @@
-{% for item in entry.contents %}
-  {% if item.title %}
-    <div class="list-title">{{ item.title }}</div>
-  {% endif %}
-  {% if item.items %}
-    <ul class="items">
-      {% for subitem in item.items %}
-        <li><span class="item">{{ subitem }}</span></li>
+{% for content in entry.contents %}
+  <div class="list-title">{{ content.title }}</div>
+  {% if content.items %}
+    <ul class="subitems">
+      {% for item in content.items %}
+        <li><span class="subitem">{{ item }}</span></li>
       {% endfor %}
     </ul>
   {% endif %}
