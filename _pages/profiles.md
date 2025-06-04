@@ -16,8 +16,9 @@ groups:
         image_circular: true
         url: "https://wangyingyu.github.io"
       - name: "Yang Song"
-        image: prof_pic.jpg
+        image: Yang_Song.jpg
         image_circular: true
+        url: "https://yangsong-slam.github.io/"
       - name: "Tiancheng Li"
         image: prof_pic.jpg
         image_circular: true
@@ -53,7 +54,7 @@ groups:
   - name: "Visiting"
     profiles:
       - name: "Ranxi Liu"
-        image: RanxiLiu.jpg
+        image: RanxiLiu.png
         image_circular: true
   - name: "Alumni"
     profiles:

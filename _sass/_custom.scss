@@ -41,7 +41,13 @@
 
 // Add more spacing between News and Editorial Roles
 .news {
-  margin-bottom: 3rem;  // Increased margin after News section
+  margin-bottom: 3rem;  // Margin below News section
+}
+
+// Add more spacing above News section
+h2 a[href="/news/"] {
+  margin-top: 4rem;  // Increased margin above News heading
+  display: block;
 }
 
 .about-section {
