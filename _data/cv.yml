@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Shoudong Huang
-    - name: Date of Birth
-      value: 8th December 1969
     - name: Languages
       value: English, Chinese
 
@@ -26,38 +24,38 @@
       year: 1987
       description:
         - Mathematics
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor
-      institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia
-      year: Jan. 2022 - present
-    - title: Associate Professor
-      institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia
-      year: Jan. 2013 - Jan. 2022
-    - title: Senior Lecturer
-      institution: Centre for Autonomous Systems, University of Technology Sydney, Australia
-      year: July 2007 - Dec.2012
-    - title: Lecturer
-      institution: ARC Centre of Excellence for Autonomous Systems, University of Technology, Sydney, Australia
-      year: Mar. 2006 - June 2007
-    - title: Research Fellow
-      institution: ARC Centre of Excellence for Autonomous Systems, University of Technology, Sydney, Australia
-      year: Jan. 2004 - Mar. 2006
-    - title: Research Fellow
-      institution: Department of Engineering, Australian National University, Australia
-      year: Sep. 2001 - Dec. 2003
-    - title: William Mong Post-doctoral Research Fellow
-      institution: Department of Mechanical Engineering, The University of Hong Kong, Hong Kong
-      year: Jan. 2000 - Jan. 2001
-    - title: Research Associate
-      institution: Department of Mechanical Engineering, The University of Hong Kong, Hong Kong
-      year: Nov. 1998 - Apr. 1999
-    - title: Assistant Professor/Lecturer/Associate Professor
-      institution: Department of Mathematics, Northeastern University, P.R. China
-      year: Feb. 1990 - Aug. 2001
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor
+#       institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia
+#       year: Jan. 2022 - present
+#     - title: Associate Professor
+#       institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia
+#       year: Jan. 2013 - Jan. 2022
+#     - title: Senior Lecturer
+#       institution: Centre for Autonomous Systems, University of Technology Sydney, Australia
+#       year: July 2007 - Dec.2012
+#     - title: Lecturer
+#       institution: ARC Centre of Excellence for Autonomous Systems, University of Technology, Sydney, Australia
+#       year: Mar. 2006 - June 2007
+#     - title: Research Fellow
+#       institution: ARC Centre of Excellence for Autonomous Systems, University of Technology, Sydney, Australia
+#       year: Jan. 2004 - Mar. 2006
+#     - title: Research Fellow
+#       institution: Department of Engineering, Australian National University, Australia
+#       year: Sep. 2001 - Dec. 2003
+#     - title: William Mong Post-doctoral Research Fellow
+#       institution: Department of Mechanical Engineering, The University of Hong Kong, Hong Kong
+#       year: Jan. 2000 - Jan. 2001
+#     - title: Research Associate
+#       institution: Department of Mechanical Engineering, The University of Hong Kong, Hong Kong
+#       year: Nov. 1998 - Apr. 1999
+#     - title: Assistant Professor/Lecturer/Associate Professor
+#       institution: Department of Mathematics, Northeastern University, P.R. China
+#       year: Feb. 1990 - Aug. 2001
 
-- title: Open Source Projects
+- title: Research Grants
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
