@@ -56,37 +56,34 @@
       institution: Department of Mathematics, Northeastern University, P.R. China
       year: Feb. 1990 - Aug. 2001
 
-- title: Research Grants
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Supervisor of the Year Award, the 2023 UTS Vice-Chancellor’s Awards for Research Excellence
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Chancellor’s Medal for Research Excellence, the 2020 UTS Vice-Chancellor’s Awards for Research Excellence
+    - year: 2019
+      items:
+        - Winner of the 2019 New South Wales iAwards
+    - year: 2018
+      items:
+        - The 100 Most Influential Scholars in the field of Robotics by AMiner 
+    - year: 2016
+      items:
+        - 14th International Conference on Control, Automation, Robotics and Vision (ICARCV) Best Paper Award 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Surgical robotics
+    - title: Robot navigation
+    - title: Mobile robot localisation and mapping 
+    - title: 3D reconstruction
+    - title: Mobile robot planning under uncertainties
+    - title: Multi-robots cooperation
+    - title: State estimation
+    - title: Optimisation 
+    - title: Nonlinear robust control
