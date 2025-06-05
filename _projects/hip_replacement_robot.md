@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Hip Replacement
+title: Robotic-assisted Hip Replacement
 description: A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.
-img: assets/img/hip_robot.jpg
+img: assets/img/overview.jpg
 importance: 1
 category: research
 ---
 
 ## Research Overview
 
-This project focuses on developing an innovative, cost-effective robotic system to assist surgeons in performing minimally invasive hip replacement surgery. The system aims to improve surgical precision while making robotic-assisted surgery more accessible to hospitals and patients through reduced costs.
+This project focuses on developing an innovative, cost-effective robotic system to assist surgeons in performing minimally invasive hip replacement surgery. The system aims to develop a low-cost minimally invasive robot system to assist with THR surgery that can automatically plan and prepare for the accurate placement of the components
 
-## Grant
+## Grants
 
-This project *Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement* is supported by National Health and Medical Research Council (NHMRC) Ideas Grant.
+This project is supported by 4 grants across the government and industries, including one grant supported by the National Health and Medical Research Council (NHMRC) Ideas Grant.
 
 ## Key Features
 
@@ -24,7 +24,4 @@ This project *Development of a Low-Cost Minimally Invasive Robot System for Hip 
 
 ## Research Team
 
-This project involves collaboration between UTS, The University of Edinburgh, the University of Leeds
-## Publications and Presentations
-
-Related research outputs will be listed here as they become available.
+This project involves collaboration between UTS, The University of Edinburgh, RMIT University, and the experienced knee and hip clinicians at Concord Hospital. 
