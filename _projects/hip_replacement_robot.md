@@ -2,14 +2,14 @@
 layout: page
 title: Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement
 description: A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.
-img: assets/img/hip_replacement/blur_real.png
+img: hip_replacement/overview.png
 importance: 1
 category: research
 ---
 
 ## Research Overview
 
-This project focuses on developing an innovative, cost-effective robotic system to assist surgeons in performing minimally invasive hip replacement surgery. The system aims to develop a low-cost minimally invasive robot system to assist with THR surgery that can automatically plan and prepare for the accurate placement of the components
+This project focuses on developing an innovative, cost-effective robotic system to assist surgeons in performing minimally invasive hip replacement surgery. The system aims to develop a low-cost minimally invasive robot system to assist with THR surgery that can automatically plan and prepare for the accurate placement of the components.
 
 ## Grants
 
