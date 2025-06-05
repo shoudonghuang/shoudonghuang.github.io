@@ -61,8 +61,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-occupancy-slam-has-been-accepted-by-t-ro-congrats-to-yingyu-wang-check-out-the-open-source-code-here-and-read-the-full-paper-here",
           title: 'Our paper Occupancy-SLAM has been accepted by T-RO! Congrats to @Yingyu Wang. Check...',
           description: "",
-          section: "News",},{id: "projects-hip-replacement",
-          title: 'Hip Replacement',
+          section: "News",},{id: "projects-robotic-assisted-hip-replacement",
+          title: 'Robotic-assisted Hip Replacement',
           description: "A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hip_replacement_robot/";
