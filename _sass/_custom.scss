@@ -1,12 +1,13 @@
 // Custom styles for the about page
 
 .post-header {
-  margin-bottom: 2rem;
+  margin-top: 3rem;  // Increased top margin
+  margin-bottom: 1rem;  // Reduced bottom margin
   text-align: left;
   
   .post-title {
     font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.5rem;  // Reduced space between title and description
     color: var(--global-theme-color);
   }
   
