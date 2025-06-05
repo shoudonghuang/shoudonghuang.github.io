@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement
+title: Robotic-assisted Hip Replacement
 description: A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.
 img: assets/img/hip_replacement/overview.png
 importance: 1
