@@ -39,4 +39,11 @@ This project involves collaboration between UTS, The University of Edinburgh, RM
 
 ## Demo
 
-{% include figure.html path="assets/img/hip_replacement/blur_real.png" title="Hip Replacement Robot Demo" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hip_replacement/blur_real.png' | relative_url }}" alt="Hip Replacement Robot Demo" title="Hip Replacement Robot Demo"/>
+    </div>
+</div>
+<div class="caption">
+    Hip replacement robot system demonstration
+</div>
