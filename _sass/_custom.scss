@@ -30,9 +30,9 @@
       margin-top: 1rem;  // Even smaller margin for the first heading
     }
 
-    // Add more space before Grants section
+    // Add moderate space before Grants section
     &:nth-of-type(2) {  // Grants is the second h2
-      margin-top: 3rem;
+      margin-top: 2rem;  // Reduced from 3rem to 2rem
     }
   }
 
