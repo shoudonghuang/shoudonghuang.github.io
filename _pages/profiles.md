@@ -20,8 +20,9 @@ groups:
         image_circular: true
         url: "https://yangsong-slam.github.io/"
       - name: "Tiancheng Li"
-        image: prof_pic.jpg
+        image: TianchengLi.jpg
         image_circular: true
+        url: "https://tianchengli-robotics.github.io/"
       - name: "Kai Pan"
         image: prof_pic.jpg
         image_circular: true
