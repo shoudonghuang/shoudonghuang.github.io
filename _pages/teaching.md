@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Subjects Developed and Taught
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 * Sensors and Control for Mechatronic Systems (UTS, 41014)

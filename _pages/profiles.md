@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Members of Our Group
 nav: true
-nav_order: 1
+nav_order: 2
 
 groups:
   - name: "Postdoc"
