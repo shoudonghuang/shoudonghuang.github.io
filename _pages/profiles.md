@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 
 groups:
+  - name: "Collaborating Faculty"
+    profiles:
+      - name: "Liang Zhao" 
+        image: LiangZhao.jpg
+        image_circular: true
   - name: "Postdoc"
     profiles:
       - name: "Tiancheng Li"
