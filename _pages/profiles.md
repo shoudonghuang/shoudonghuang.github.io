@@ -71,8 +71,9 @@ groups:
         image: prof_pic.jpg
         image_circular: true
       - name: "Yongbo Chen"
-        image: prof_pic.jpg
+        image: YongboChen.jpg
         image_circular: true
+        url: "https://sites.google.com/view/yongbochen"
       - name: "Jiaheng Zhao"
         image: prof_pic.jpg
         image_circular: true
