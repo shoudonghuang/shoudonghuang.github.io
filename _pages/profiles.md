@@ -39,14 +39,16 @@ groups:
         image: YiranZhou.jpg
         image_circular: true
       - name: "Isira Damsith Wijegunawardana"
-        image: prof_pic.jpg
+        image: Isira.jpg
         image_circular: true
+        url: "https://sites.google.com/view/isiradwije"
       - name: "Chonghao Chen"
         image: prof_pic.jpg
         image_circular: true
       - name: "Zhihao Xing"
-        image: prof_pic.jpg
+        image: ZhihaoXing.jpg
         image_circular: true
+        url: " https://vglx.github.io/"
       - name: "Zhenzi Li"
         image: ZhenziLi.jpg
         image_circular: true
@@ -69,8 +71,9 @@ groups:
         image: MengyaXu.jpg
         image_circular: true
       - name: "Yanhao Zhang"
-        image: prof_pic.jpg
+        image: YanhaoZhang.jpg
         image_circular: true
+        url: "https://sites.google.com/view/yanhaozhang/home"
       - name: "Yongbo Chen"
         image: YongboChen.jpg
         image_circular: true
@@ -78,10 +81,14 @@ groups:
       - name: "Jiaheng Zhao"
         image: prof_pic.jpg
         image_circular: true
+        url: "https://jiahengzhao.github.io//publications/"
       - name: "Shuai Zhang"
         image: prof_pic.jpg
         image_circular: true
       - name: "Zhehua Mao"
+        image: prof_pic.jpg
+        image_circular: true
+      - name: "Hongkyoon Byun"
         image: prof_pic.jpg
         image_circular: true
 ---
