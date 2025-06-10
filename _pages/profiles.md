@@ -29,8 +29,9 @@ groups:
         image_circular: true
         url: "https://yangsong-slam.github.io/"
       - name: "Kai Pan"
-        image: prof_pic.jpg
+        image: KaiPan.jpg
         image_circular: true
+        url: "https://drkaipan.github.io/"
       - name: "Dominik Slomma"
         image: prof_pic.jpg
         image_circular: true
@@ -75,9 +76,6 @@ groups:
         image_circular: true
         url: "https://sites.google.com/view/yongbochen"
       - name: "Jiaheng Zhao"
-        image: prof_pic.jpg
-        image_circular: true
-      - name: "Yanhao Zhang"
         image: prof_pic.jpg
         image_circular: true
       - name: "Shuai Zhang"
