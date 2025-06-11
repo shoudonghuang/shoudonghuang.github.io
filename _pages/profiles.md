@@ -43,8 +43,9 @@ groups:
         image_circular: true
         url: "https://sites.google.com/view/isiradwije"
       - name: "Chonghao Cheng"
-        image: prof_pic.jpg
+        image: ChonghaoCheng.jpg
         image_circular: true
+        url: 
       - name: "Zhihao Xing"
         image: ZhihaoXing.jpg
         image_circular: true
@@ -55,8 +56,9 @@ groups:
   - name: "Master Student"
     profiles:
       - name: "Duc"
-        image: prof_pic.jpg
+        image: Duc.jpg
         image_circular: true
+        url: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
   - name: "Visiting"
     profiles:
       - name: "Ranxi Liu"
