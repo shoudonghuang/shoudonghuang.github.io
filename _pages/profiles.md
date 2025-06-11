@@ -42,7 +42,7 @@ groups:
         image: Isira.jpg
         image_circular: true
         url: "https://sites.google.com/view/isiradwije"
-      - name: "Chonghao Chen"
+      - name: "Chonghao Cheng"
         image: prof_pic.jpg
         image_circular: true
       - name: "Zhihao Xing"
@@ -51,9 +51,6 @@ groups:
         url: " https://vglx.github.io/"
       - name: "Zhenzi Li"
         image: ZhenziLi.jpg
-        image_circular: true
-      - name: "Shengduo Chen"
-        image: prof_pic.jpg
         image_circular: true
   - name: "Master Student"
     profiles:
@@ -69,6 +66,9 @@ groups:
     profiles:
       - name: "Mengya Xu"
         image: MengyaXu.jpg
+        image_circular: true
+      - name: "Shengduo Chen"
+        image: prof_pic.jpg
         image_circular: true
       - name: "Yanhao Zhang"
         image: YanhaoZhang.jpg
