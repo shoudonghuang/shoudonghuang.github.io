@@ -45,7 +45,3 @@ Since 2007, as a Chief Investigator, I have secured external research funding wo
 - **Publication Chair**: Robotics: Science and Systems 2022
 
 - **Editor**: IEEE/RSJ International Conference on Intelligent Robots and Systems (2020-2022)
-
-<div style="text-align: center; margin: 40px 0;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=rD8aligMQ58xOcqAUjUro-AELdIPY-QtfhjuTHMV_U8'></script>
-</div>
