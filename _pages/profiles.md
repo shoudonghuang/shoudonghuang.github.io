@@ -57,7 +57,7 @@ groups:
   - name: "Master Student"
     profiles:
       - name: "Duc"
-        image: Duc.jpg
+        image: Duc.jpeg
         image_circular: true
         url: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
   - name: "Visiting"
