@@ -65,6 +65,7 @@ groups:
       - name: "Ranxi Liu"
         image: RanxiLiu.png
         image_circular: true
+        url: "https://ranxiliu-uts.github.io"
   - name: "Alumni"
     profiles:
       - name: "Mengya Xu"
