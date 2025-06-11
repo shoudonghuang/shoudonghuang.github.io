@@ -12,6 +12,7 @@ groups:
       - name: "Liang Zhao" 
         image: LiangZhao.jpg
         image_circular: true
+        url: "https://www.research.ed.ac.uk/en/persons/liang-zhao"
   - name: "Postdoc"
     profiles:
       - name: "Tiancheng Li"
