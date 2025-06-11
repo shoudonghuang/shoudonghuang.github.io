@@ -2,12 +2,12 @@
 <html lang="{{ site.lang }}">
 
   <!-- Head -->
-  {%- include head.html -%}
+  {%- include head.liquid -%}
 
   <body class="{{ page.layout }} {% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
     <!-- Header -->
-    {%- include header.html %}
+    {%- include header.liquid %}
 
     <!-- Content -->
     <div class="container mt-5">
@@ -15,7 +15,7 @@
     </div>
 
     <!-- Footer -->
-    {%- include footer.html %}
+    {%- include footer.liquid %}
 
 
 
