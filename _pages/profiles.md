@@ -71,6 +71,7 @@ groups:
       - name: "Mengya Xu"
         image: MengyaXu.jpg
         image_circular: true
+        url: "https://mengyaxu.github.io"
       - name: "Shengduo Chen"
         image: prof_pic.jpg
         image_circular: true
