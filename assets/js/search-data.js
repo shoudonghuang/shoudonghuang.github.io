@@ -68,7 +68,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-occupancy-slam-has-been-accepted-by-t-ro-congrats-to-yingyu-wang-check-out-the-open-source-code-here-and-read-the-full-paper-here",
           title: 'Our paper Occupancy-SLAM has been accepted by T-RO! Congrats to @Yingyu Wang. Check...',
           description: "",
-          section: "News",},{id: "projects-robotic-assisted-hip-replacement",
+          section: "News",},{id: "projects-slam-in-deformable-environments",
+          title: 'SLAM in Deformable Environments',
+          description: "Investigating the problem of building a three-dimensional map of a deformable environment in real-time using images and simultaneously localising the camera within the map.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deformable_slam/";
+            },},{id: "projects-robotic-assisted-hip-replacement",
           title: 'Robotic-assisted Hip Replacement',
           description: "A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.",
           section: "Projects",handler: () => {
