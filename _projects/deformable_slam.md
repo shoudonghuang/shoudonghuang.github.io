@@ -2,7 +2,7 @@
 layout: page
 title: SLAM in Deformable Environments
 description: Investigating the problem of building a three-dimensional map of a deformable environment in real-time using images and simultaneously localising the camera within the map.
-img: assets/img/deformable_SLAM/overview.jpg
+img: assets/img/deformable_SLAM/Overview.jpg
 importance: 2
 category: research
 ---
