@@ -34,8 +34,9 @@ groups:
         image_circular: true
         url: "https://drkaipan.github.io/"
       - name: "Dominik Slomma"
-        image: prof_pic.jpg
+        image: Dominik.jpg
         image_circular: true
+        url: "https://dominikslomma.github.io/"
       - name: "Yiran Zhou"
         image: YiranZhou.jpg
         image_circular: true
