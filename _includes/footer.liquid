@@ -15,9 +15,11 @@
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
-      <div id="clustrmaps-widget" style="text-align: center; margin: 20px 0;">
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=rD8aligMQ58xOcqAUjUro-AELdIPY-QtfhjuTHMV_U8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-      </div>
+      {% if layout.title == 'about' or page.layout == 'about' or page.url == '/' %}
+        <div id="clustrmaps-widget" style="text-align: center; margin: 20px 0;">
+          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=rD8aligMQ58xOcqAUjUro-AELdIPY-QtfhjuTHMV_U8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+        </div>
+      {% endif %}
     </div>
   </footer>
 {% else %}
@@ -28,9 +30,11 @@
 
     <div class="container">
       {{ footer_contents }}
-      <div id="clustrmaps-widget" style="text-align: center; margin: 20px 0;">
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=rD8aligMQ58xOcqAUjUro-AELdIPY-QtfhjuTHMV_U8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-      </div>
+      {% if layout.title == 'about' or page.layout == 'about' or page.url == '/' %}
+        <div id="clustrmaps-widget" style="text-align: center; margin: 20px 0;">
+          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=rD8aligMQ58xOcqAUjUro-AELdIPY-QtfhjuTHMV_U8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+        </div>
+      {% endif %}
     </div>
   </footer>
 {% endif %}
