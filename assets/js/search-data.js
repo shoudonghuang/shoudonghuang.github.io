@@ -73,6 +73,11 @@ ninja.data = [{
           description: "Investigating the problem of building a three-dimensional map of a deformable environment in real-time using images and simultaneously localising the camera within the map.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/deformable_slam/";
+            },},{id: "projects-global-solution-to-slam",
+          title: 'Global Solution to SLAM',
+          description: "Development of globally optimal solutions to simultaneous localization and mapping for robot navigation in complex environments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/global_solution_slam/";
             },},{id: "projects-robotic-assisted-hip-replacement",
           title: 'Robotic-assisted Hip Replacement',
           description: "A robotic system designed to assist surgeons in performing minimally invasive hip replacement surgery with improved precision and reduced costs.",
