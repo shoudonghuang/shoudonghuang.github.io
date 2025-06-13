@@ -57,7 +57,16 @@ category: research
   <h2>Visualization</h2>
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/deformable_SLAM/Overview.jpg' | relative_url }}" alt="SLAM in Deformable Environments" title="SLAM in Deformable Environments"/>
+      {%
+        include figure.liquid
+        loading="eager"
+        path="assets/img/deformable_SLAM/Overview.jpg"
+        alt="SLAM in Deformable Environments"
+        title="SLAM in Deformable Environments"
+        class="img-fluid rounded z-depth-1"
+        max-height="400px"
+        sizes="(max-width: 767px) 100vw, 50vw"
+      %}
     </div>
   </div>
   <div class="caption">
