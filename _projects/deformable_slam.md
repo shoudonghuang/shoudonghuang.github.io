@@ -60,7 +60,7 @@ category: research
       {%
         include figure.liquid
         loading="eager"
-        path="assets/img/deformable_SLAM/Overview.jpg"
+        path="assets/img/deformable_SLAM/Demo.jpg"
         alt="SLAM in Deformable Environments"
         title="SLAM in Deformable Environments"
         class="img-fluid rounded z-depth-1"
