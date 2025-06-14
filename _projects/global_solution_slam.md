@@ -16,9 +16,7 @@ category: research
   <p>
     This research theme focuses on complex robotic systems design and integration, robot navigating and interacting with objects in highly complex environments, biologically inspired robots, underwater robots, drones, and soft grippers. The project aims to develop globally optimal solutions that ensure robust and accurate simultaneous localization and mapping (SLAM) for various robotic applications.
   </p>
-
   <h2>Research Focus</h2>
-  <h3>Robotic Systems</h3>
   <p>
     This research theme focuses on complex robotic systems design and integration, robot navigating and interacting with objects in highly complex environments, including:
   </p>
@@ -30,7 +28,6 @@ category: research
   </ul>
 
   <h2>Technical Approach</h2>
-  <h3>Algorithm Development</h3>
   <ul>
     <li>
       <strong>Gauss-Newton Optimization:</strong> Implementation of advanced Gauss-Newton methods for nonlinear optimization in SLAM problems
@@ -45,6 +42,7 @@ category: research
       <strong>Global Optimization:</strong> Ensuring convergence to globally optimal solutions rather than local minima
     </li>
   </ul>
+
 
   <h2>Key Innovations</h2>
   <ul>
