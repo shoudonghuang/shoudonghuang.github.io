@@ -40,6 +40,7 @@ groups:
       - name: "Yiran Zhou"
         image: YiranZhou.jpg
         image_circular: true
+        url: "https://yiranzhou-robotics.github.io"
       - name: "Isira Damsith Wijegunawardana"
         image: Isira.jpg
         image_circular: true
