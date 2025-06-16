@@ -104,6 +104,10 @@ groups:
         image: YoubingWang.jpeg
         image_circular: true
         url: " https://www.linkedin.com/in/y-ben-wang-b0549193/"
+      - name: "Jun Wang"
+        image: JunWang.jpg
+        image_circular: true
+        url: "https://scholar.google.com/citations?user=Ao2IF4QAAAAJ&hl=en"
 ---
 
 {% for group in page.groups %}
