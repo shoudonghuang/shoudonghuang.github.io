@@ -74,8 +74,9 @@ groups:
         image_circular: true
         url: "https://mengyaxu.github.io"
       - name: "Shengduo Chen"
-        image: prof_pic.jpg
+        image: ShengduoChen.png
         image_circular: true
+        url: "https://chenshengduo.github.io/"
       - name: "Yanhao Zhang"
         image: YanhaoZhang.jpg
         image_circular: true
@@ -95,8 +96,13 @@ groups:
         image: prof_pic.jpg
         image_circular: true
       - name: "Hongkyoon Byun"
-        image: prof_pic.jpg
+        image: Hugh.jpg
         image_circular: true
+        url: "https://www.linkedin.com/in/hughbyun/"
+      - name: "Youbing Wang"
+        image: YoubingWang.jpeg
+        image_circular: true
+        url: " https://www.linkedin.com/in/y-ben-wang-b0549193/"
 ---
 
 {% for group in page.groups %}
