@@ -94,9 +94,11 @@ groups:
       - name: "Shuai Zhang"
         image: prof_pic.jpg
         image_circular: true
+        url: "https://scholar.google.com/citations?user=F2Q8SKIAAAAJ&hl=en"
       - name: "Zhehua Mao"
         image: prof_pic.jpg
         image_circular: true
+        url: "https://scholar.google.com/citations?user=3-t9imkAAAAJ&hl=en"
       - name: "Hongkyoon Byun"
         image: Hugh.jpg
         image_circular: true
