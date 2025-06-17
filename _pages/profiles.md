@@ -92,7 +92,7 @@ groups:
         image_circular: true
         url: "https://jiahengzhao.github.io//publications/"
       - name: "Shuai Zhang"
-        image: ZhangShuai.jpg
+        image: ShuaiZhang.jpg
         image_circular: true
         url: "https://scholar.google.com/citations?user=F2Q8SKIAAAAJ&hl=en"
       - name: "Zhehua Mao"
