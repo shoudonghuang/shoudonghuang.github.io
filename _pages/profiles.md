@@ -56,6 +56,7 @@ groups:
       - name: "Zhenzi Li"
         image: ZhenziLi.jpg
         image_circular: true
+        url: "https://zhenzi-li-526.github.io/"
   - name: "Master Student"
     profiles:
       - name: "Duc"
