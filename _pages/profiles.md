@@ -88,7 +88,7 @@ groups:
         image_circular: true
         url: "https://sites.google.com/view/yongbochen"
       - name: "Jiaheng Zhao"
-        image: prof_pic.jpg
+        image: JiahengZhao.jpg
         image_circular: true
         url: "https://jiahengzhao.github.io//publications/"
       - name: "Shuai Zhang"
