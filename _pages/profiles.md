@@ -60,7 +60,7 @@ groups:
   - name: "Master Student"
     profiles:
       - name: "Duc"
-        image: Duc.jpeg
+        image: Duc.png
         image_circular: true
         url: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
   - name: "Visiting"
@@ -92,7 +92,7 @@ groups:
         image_circular: true
         url: "https://jiahengzhao.github.io//publications/"
       - name: "Shuai Zhang"
-        image: prof_pic.jpg
+        image: ZhangShuai.jpg
         image_circular: true
         url: "https://scholar.google.com/citations?user=F2Q8SKIAAAAJ&hl=en"
       - name: "Zhehua Mao"
