@@ -62,7 +62,7 @@ groups:
       - name: "Duc"
         image: Duc.png
         image_circular: true
-        url: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
+        url: "https://www.linkedin.com/in/van-minh-duc-nguyen-66ab86249/"
   - name: "Visiting"
     profiles:
       - name: "Ranxi Liu"
