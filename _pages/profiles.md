@@ -25,10 +25,6 @@ groups:
         image: YingyuWang.png
         image_circular: true
         url: "https://wangyingyu.github.io"
-      - name: "Yang Song"
-        image: Yang_Song.jpg
-        image_circular: true
-        url: "https://yangsong-slam.github.io/"
       - name: "Kai Pan"
         image: KaiPan.jpg
         image_circular: true
@@ -71,6 +67,10 @@ groups:
         url: "https://ranxiliu-uts.github.io"
   - name: "Alumni"
     profiles:
+      - name: "Yang Song"
+        image: Yang_Song.jpg
+        image_circular: true
+        url: "https://yangsong-slam.github.io/"
       - name: "Mengya Xu"
         image: MengyaXu.jpg
         image_circular: true
