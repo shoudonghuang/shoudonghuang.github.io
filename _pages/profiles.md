@@ -111,6 +111,18 @@ groups:
         image: JunWang.jpeg
         image_circular: true
         url: "https://scholar.google.com/citations?user=Ao2IF4QAAAAJ&hl=en"
+      - name: "Cedric Le Gentil"
+        image: Cedric.jpg
+        image_circular: true
+        url: "https://www.linkedin.com/in/legentilcedric/"
+      - name: "Kasra Khosoussi"
+        image: Kasra.png
+        image_circular: true
+        url: "https://about.uq.edu.au/experts/47889"
+      - name: "Fang Bai"
+        image: Fang_Bai.jpeg
+        image_circular: true
+        url: "https://fangbai.bitbucket.io"
 ---
 
 {% for group in page.groups %}
