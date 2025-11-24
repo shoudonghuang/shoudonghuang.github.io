@@ -19,12 +19,12 @@ groups:
         image: TianchengLi.jpg
         image_circular: true
         url: "https://tianchengli-robotics.github.io/"
-  - name: "PhD Students"
-    profiles:
       - name: "Yingyu Wang"
         image: YingyuWang.png
         image_circular: true
         url: "https://wangyingyu.github.io"
+  - name: "PhD Students"
+    profiles:
       - name: "Kai Pan"
         image: KaiPan.jpg
         image_circular: true
@@ -53,6 +53,14 @@ groups:
         image: ZhenziLi.jpg
         image_circular: true
         url: "https://zhenzi-li-526.github.io/"
+      - name: "Tong Hua"
+        image: TongHua.jpg
+        image_circular: true
+        url: "https://ht-mals.github.io/"
+      - name: "Zhuhua Bai"
+        image: ZhuhuaBai.jpg
+        image_circular: true
+        url: "https://zhuanlan.zhihu.com/p/711554540"
   - name: "Master Student"
     profiles:
       - name: "Duc"
