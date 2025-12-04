@@ -60,7 +60,7 @@ groups:
       - name: "Zhuhua Bai"
         image: ZhuhuaBai.jpg
         image_circular: true
-        url: "https://zhuanlan.zhihu.com/p/711554540"
+        url: "https://xiaobaitu123321.github.io/"
   - name: "Master Student"
     profiles:
       - name: "Duc"
