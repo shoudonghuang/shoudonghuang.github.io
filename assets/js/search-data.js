@@ -74,7 +74,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-excited-to-announce-that-we-will-host-the-robotics-science-and-systems-rss-2026-conference-watch-the-welcome-video-here",
           title: 'We are excited to announce that we will host the Robotics: Science and...',
           description: "",
-          section: "News",},{id: "news-our-paper-affine-ekf-has-been-accepted-by-t-ro-congrats-to-yang-song-check-out-the-paper-here",
+          section: "News",},{id: "news-our-paper-affine-ekf-has-been-accepted-by-t-ro-congrats-to-yang-song-check-out-the-paper-here-and-code-here",
           title: 'Our paper, Affine EKF, has been accepted by T-RO! Congrats to @Yang Song....',
           description: "",
           section: "News",},{id: "projects-slam-in-deformable-environments",
