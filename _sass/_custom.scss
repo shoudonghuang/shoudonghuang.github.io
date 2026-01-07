@@ -137,3 +137,28 @@ h2 a[href="/news/"] {
     }
   }
 } 
+
+// CV: remove indentation for specified sections
+.cv .no-indent {
+  // remove list indentation
+  ul,
+  ol {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+  // neutralize margin-left utility used in templates
+  .ml-1 {
+    margin-left: 0 !important;
+  }
+  // item lists
+  .items,
+  .subitems {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    list-style-position: inside;
+  }
+  // ensure institution table aligns without extra left offset
+  .table-cv.ml-1 {
+    margin-left: 0 !important;
+  }
+}
