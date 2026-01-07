@@ -38,18 +38,7 @@ category: research
   <p>
     This project involves collaboration between UTS, The University of Edinburgh, RMIT University, and the experienced knee and hip clinicians at Concord Hospital.
   </p>
-
-  <h2>Demo</h2>
-  <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hip_replacement/blur_real.png' | relative_url }}" alt="Hip Replacement Robot Demo" title="Hip Replacement Robot Demo"/>
-    </div>
-  </div>
-  <div class="caption">
-    Hip replacement robot system demonstration
-  </div>
-
-  <h2 class="mt-4">Submodules</h2>
+  <h2 class="mt-4">Details</h2>
 
   <section class="project-section">
     <div class="project-header">
@@ -64,7 +53,7 @@ category: research
         </div>
       </div>
     </div>
-    
+
     <div class="project-content">
       <h3>Project Description</h3>
       <p>This project focuses on developing an innovative, cost-effective robotic system to help surgeons in performing minimally invasive hip replacement surgery. The system aims to assist with surgery that can automatically plan and prepare for the accurate placement of the components.</p>
@@ -73,7 +62,7 @@ category: research
       <ul>
         <li><strong>Li, T.</strong>, Walker, P., Hammoud, D., Zhao, L. and Huang, S., 2025. Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery. In IEEE International Conference on Robotics and Automation (ICRA).</li>
       </ul>
-
+    
       <h3>Demo Video</h3>
       <div class="project-demo">
         <div class="video-container">
@@ -101,13 +90,13 @@ category: research
         </div>
       </div>
     </div>
-    
+
     <div class="project-content">
       <h3>Research Outcome</h3>
       <ul>
         <li><strong>Li, T.</strong>, Song, Y., Walker, P., Pan, K., van de Graaf, V.A., Zhao, L. and Huang, S., 2023, October. A Closed-Form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 365-375). Cham: Springer Nature Switzerland.</li>
       </ul>
-
+    
       <h3>Demo Video</h3>
       <div class="project-demo">
         <div class="video-container">
@@ -131,14 +120,14 @@ category: research
         </div>
       </div>
     </div>
-    
+
     <div class="project-content">
       <h3>Research Outcomes</h3>
       <ul>
         <li><strong>Li, T.</strong>, Walker, P., Khonasty, R., van de Graaf, V.A., Yelf, E., Zhao, L. and Huang, S., 2024. Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation. The International Journal of Medical Robotics and Computer Assisted Surgery, 20(1), p.e2615.</li>
         <li>Walker, P., <strong>Li, T*.</strong>, Khonasty, R., Ponnanna, K.M., Kuo, A., Zhao, L. and Huang, S., 2022. Proof of concept study for using UR10 robot to help total hip replacement. The International Journal of Medical Robotics and Computer Assisted Surgery, 18(2), p.e2359.</li>
       </ul>
-
+    
       <h3>Demo Video</h3>
       <div class="project-demo">
         <div class="video-container">
