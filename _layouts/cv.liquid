@@ -30,7 +30,8 @@ layout: default
       <div class="cv">
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
-          <div class="card mt-3 p-3{% if entry.title == 'Working Experience' or entry.title == 'Academic Service' %} no-indent{% endif %}">
+          {% assign no_indent_titles = "Working Experience|Experience|Academic Service|Academic Services|Service|Services|工作经历|学术服务" | split: "|" %}
+          <div class="card mt-3 p-3{% if no_indent_titles contains entry.title %} no-indent{% endif %}">
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
             <div>
               {% if entry.type == 'list' %}

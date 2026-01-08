@@ -146,6 +146,15 @@ h2 a[href="/news/"] {
     padding-left: 0 !important;
     margin-left: 0 !important;
   }
+  // list group paddings
+  .list-group,
+  .list-group-flush {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+  .list-group-item {
+    padding-left: 0 !important;
+  }
   // neutralize margin-left utility used in templates
   .ml-1 {
     margin-left: 0 !important;
@@ -160,5 +169,19 @@ h2 a[href="/news/"] {
   // ensure institution table aligns without extra left offset
   .table-cv.ml-1 {
     margin-left: 0 !important;
+  }
+  // stack year badge and content vertically to remove visual indent
+  .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .row > div:first-child {
+    width: auto !important;
+    margin-right: 0 !important;
+  }
+  .row > [class^="col-"],
+  .row > [class*=" col-"] {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
   }
 }
