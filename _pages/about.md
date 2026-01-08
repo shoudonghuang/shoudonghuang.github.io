@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Professor
-subtitle: Robotics Institute, University of Technology Sydney, Sydney
+subtitle: |
+  Professor
+  Robotics Institute, University of Technology Sydney
 
 profile:
   align: right
