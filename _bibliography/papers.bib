@@ -1,4 +1,5 @@
 @article{song2025affineEKF,
+  abbr={T-RO},
   title={Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency},
   author={Song, Yang and Zhao, Liang and Huang, Shoudong},
   journal={IEEE Transactions on Robotics},
@@ -11,31 +12,6 @@
   publisher={IEEE}
 }
 
-@article{wang2025occupancy,
-  AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
-  title={Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map},
-  journal={IEEE Transactions on Robotics},
-  year={2025},
-  preview={tro_occupancy.gif},
-  Abstract= {Joint optimization of poses and features has been extensively studied and demonstrated to yield more accurate results in feature-based SLAM problems. However, research on jointly optimizing poses and non-feature-based maps remains limited. Occupancy maps are widely used non-feature-based environment representations because they effectively classify spaces into obstacles, free areas, and unknown regions, providing robots with spatial information for various tasks. In this paper, we propose Occupancy-SLAM, a novel optimization-based SLAM method that enables the joint optimization of robot trajectory and the occupancy map through a parameterized map representation. The key novelty lies in optimizing both robot poses and occupancy values at different cell vertices simultaneously, a significant departure from existing methods where the robot poses need to be optimized first before the map can be estimated. This paper focuses on 2D laser-based SLAM to investigate how to jointly optimize robot poses and the occupancy map. In our formulation, the state variables in optimization include all the robot poses and the occupancy values at discrete cell vertices in the occupancy map. Moreover, a multi-resolution optimization framework that utilizes occupancy maps with varying resolutions in different stages is introduced. A variation of Gauss-Newton method is proposed to solve the optimization problem at different stages to obtain the optimized occupancy map and robot trajectory. The proposed algorithm is efficient and converges easily with initialization from either odometry inputs or scan matching, even when only limited key-frame scans are used. Furthermore, we propose an occupancy submap joining method, enabling more effective handling of large-scale problems by incorporating the submap joining process into the Occupancy-SLAM framework. Evaluations using simulations and practical 2D laser datasets demonstrate that the proposed approach can robustly obtain more accurate robot trajectories and occupancy maps than state-of-the-art techniques with comparable computational time. Preliminary results in the 3D case further confirm the potential of the proposed method in practical 3D applications, achieving more accurate results than existing methods.},
-  selected={true},
-  video={https://youtu.be/-_-39SrPxKk},
-  arxiv={2502.06292},
-  code = {https://github.com/WANGYINGYU/Occupancy-SLAM} 
-}
-
-
-@article{song2025guaranteed,
-  title={Guaranteed 2D Pose Graph SLAM With Bounded Noises: An Efficient Interval Approach},
-  author={Song, Yang and Yang, Heng and Zhao, Liang and Huang, Shoudong},
-  journal={IEEE Transactions on Automation Science and Engineering},
-  year={2025},
-  Abstract= {This paper focuses on developing a performance guaranteed state estimation algorithm for 2D pose graph problems for mobile robots. Different from probabilistic methods, the measurement noises are only assumed to be bounded without any prior knowledge about their distributions. Based on the interval analysis, we first propose a vanilla sequential contractor that iteratively uses edge-wise noise bounds to contract pose intervals at the nodes, which can provide the guaranteed feasible domains that contain the ground-truth values. Then, to improve the efficiency in solving large-scale pose graphs, an efficient batch contractor is developed by improving the update order and exploiting a relaxation of the nonlinear measurement functions. The effectiveness and efficiency of our approaches are validated on simulated and real-world datasets.},
-  preview={TASE2025_Yang.gif},
-  url={https://www.pure.ed.ac.uk/ws/portalfiles/portal/498281224/SongEtalTASE2025Guaranteed2DPoseGraph.pdf},
-  selected={true},
-  publisher={IEEE}
-}
 
 @inproceedings{zhou2025correspondence,
   abbr={IROS},
@@ -51,8 +27,38 @@
   preview={IROS25_Multiview.gif}
 }
 
+@article{wang2025occupancy,
+  abbr={T-RO},
+  AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
+  title={Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map},
+  journal={IEEE Transactions on Robotics},
+  year={2025},
+  preview={tro_occupancy.gif},
+  Abstract= {Joint optimization of poses and features has been extensively studied and demonstrated to yield more accurate results in feature-based SLAM problems. However, research on jointly optimizing poses and non-feature-based maps remains limited. Occupancy maps are widely used non-feature-based environment representations because they effectively classify spaces into obstacles, free areas, and unknown regions, providing robots with spatial information for various tasks. In this paper, we propose Occupancy-SLAM, a novel optimization-based SLAM method that enables the joint optimization of robot trajectory and the occupancy map through a parameterized map representation. The key novelty lies in optimizing both robot poses and occupancy values at different cell vertices simultaneously, a significant departure from existing methods where the robot poses need to be optimized first before the map can be estimated. This paper focuses on 2D laser-based SLAM to investigate how to jointly optimize robot poses and the occupancy map. In our formulation, the state variables in optimization include all the robot poses and the occupancy values at discrete cell vertices in the occupancy map. Moreover, a multi-resolution optimization framework that utilizes occupancy maps with varying resolutions in different stages is introduced. A variation of Gauss-Newton method is proposed to solve the optimization problem at different stages to obtain the optimized occupancy map and robot trajectory. The proposed algorithm is efficient and converges easily with initialization from either odometry inputs or scan matching, even when only limited key-frame scans are used. Furthermore, we propose an occupancy submap joining method, enabling more effective handling of large-scale problems by incorporating the submap joining process into the Occupancy-SLAM framework. Evaluations using simulations and practical 2D laser datasets demonstrate that the proposed approach can robustly obtain more accurate robot trajectories and occupancy maps than state-of-the-art techniques with comparable computational time. Preliminary results in the 3D case further confirm the potential of the proposed method in practical 3D applications, achieving more accurate results than existing methods.},
+  selected={true},
+  video={https://youtu.be/-_-39SrPxKk},
+  arxiv={2502.06292},
+  code = {https://github.com/WANGYINGYU/Occupancy-SLAM} 
+}
+
+
+@article{song2025guaranteed,
+  abbr={TASE},
+  title={Guaranteed 2D Pose Graph SLAM With Bounded Noises: An Efficient Interval Approach},
+  author={Song, Yang and Yang, Heng and Zhao, Liang and Huang, Shoudong},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2025},
+  Abstract= {This paper focuses on developing a performance guaranteed state estimation algorithm for 2D pose graph problems for mobile robots. Different from probabilistic methods, the measurement noises are only assumed to be bounded without any prior knowledge about their distributions. Based on the interval analysis, we first propose a vanilla sequential contractor that iteratively uses edge-wise noise bounds to contract pose intervals at the nodes, which can provide the guaranteed feasible domains that contain the ground-truth values. Then, to improve the efficiency in solving large-scale pose graphs, an efficient batch contractor is developed by improving the update order and exploiting a relaxation of the nonlinear measurement functions. The effectiveness and efficiency of our approaches are validated on simulated and real-world datasets.},
+  preview={TASE2025_Yang.gif},
+  url={https://www.pure.ed.ac.uk/ws/portalfiles/portal/498281224/SongEtalTASE2025Guaranteed2DPoseGraph.pdf},
+  selected={true},
+  publisher={IEEE}
+}
+
+
 
 @INPROCEEDINGS{Tiancheng-ICRA-25, 
+    abbr={ICRA},
     AUTHOR    = {Li, Tiancheng AND Walker, Peter AND Hammoud, Danial AND Zhao, Liang AND Huang, Shoudong}, 
     TITLE     = {{Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery}},
     BOOKTITLE = {IEEE International Conference on Robotics and Automation}, 
@@ -66,6 +72,7 @@
 } 
 
 @INPROCEEDINGS{Wang-IROS-24, 
+    abbr={IROS},
     AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
     TITLE     = {{Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames}},
     BOOKTITLE = {IEEE/RSJ International Conference on Intelligent Robots and Systems}, 
