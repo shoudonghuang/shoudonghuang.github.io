@@ -1,3 +1,16 @@
+@article{song2025affineEKF,
+  title={Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency},
+  author={Song, Yang and Zhao, Liang and Huang, Shoudong},
+  journal={IEEE Transactions on Robotics},
+  year={2025},
+  Abstract= {Inconsistency issue is one crucial challenge for the performance of extended Kalman filter (EKF) based methods for state estimation problems, which is mainly affected by the discrepancy of observability between the EKF model and the underlying dynamic system. In this work, some sufficient and necessary conditions for observability maintenance are first proved. We find that under certain conditions, an EKF can naturally maintain correct observability if the corresponding linearization makes unobservable subspace independent of the state values. Based on this theoretical finding, a novel affine EKF (Aff-EKF) framework is proposed to overcome the inconsistency of standard EKF (Std-EKF) by affine transformations, which not only naturally satisfies the observability constraint but also has a clear design procedure. The advantages of our Aff-EKF framework over some commonly used methods are demonstrated through mathematical analyses. The effectiveness of our proposed method is demonstrated on three simultaneous localization and mapping (SLAM) applications with different types of features, typical point features, point features on a horizontal plane and plane features. Specifically, following the proposed procedure, the naturally consistent Aff-EKFs can be explicitly derived for these problems. The consistency improvement of these Aff-EKFs are validated by Monte Carlo simulations.},
+  preview={affineEKF.jpg},
+  url={https://arxiv.org/pdf/2412.10809},
+  code = {https://github.com/YangSONG-SLAM/Affine-EKF},
+  selected={true},
+  publisher={IEEE}
+}
+
 @article{wang2025occupancy,
   AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
   title={Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map},
@@ -11,17 +24,6 @@
   code = {https://github.com/WANGYINGYU/Occupancy-SLAM} 
 }
 
-@INPROCEEDINGS{Wang-IROS-24, 
-    AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
-    TITLE     = {{Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames}},
-    BOOKTITLE = {IEEE/RSJ International Conference on Intelligent Robots and Systems}, 
-    YEAR      = {2024},
-    Abstract= {In this paper, we first formulate the 2D grid-based submap joining problem as a non-linear least squares (NLLS) form to optimize the global occupancy map and local submap frames simultaneously. We then prove that in solving the NLLS problem using Gauss-Newton (GN) method, the increments of the poses in each iteration are independent of the occupancy values of the global occupancy map. Based on this property, we propose a pose-only GN algorithm equivalent to full GN method to solve the NLLS problem. The proposed submap joining algorithm is very efficient due to the independent property and the pose-only solution. Evaluations using simulations and publicly available practical 2D laser datasets confirm the outperformance of our proposed method compared to the state-of-the-art methods in terms of efficiency and accuracy, as well as the ability to solve the grid-based SLAM problem in very large-scale environments.},
-    video={https://youtu.be/jZEnyrKXRBw},
-    preview={iros2024.gif},
-    arxiv={2501.12764},
-    selected={false}
-} 
 
 @article{song2025guaranteed,
   title={Guaranteed 2D Pose Graph SLAM With Bounded Noises: An Efficient Interval Approach},
@@ -49,19 +51,18 @@
     selected={true}
 } 
 
+@INPROCEEDINGS{Wang-IROS-24, 
+    AUTHOR    = {Wang, Yingyu AND Zhao, Liang AND Huang, Shoudong}, 
+    TITLE     = {{Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames}},
+    BOOKTITLE = {IEEE/RSJ International Conference on Intelligent Robots and Systems}, 
+    YEAR      = {2024},
+    Abstract= {In this paper, we first formulate the 2D grid-based submap joining problem as a non-linear least squares (NLLS) form to optimize the global occupancy map and local submap frames simultaneously. We then prove that in solving the NLLS problem using Gauss-Newton (GN) method, the increments of the poses in each iteration are independent of the occupancy values of the global occupancy map. Based on this property, we propose a pose-only GN algorithm equivalent to full GN method to solve the NLLS problem. The proposed submap joining algorithm is very efficient due to the independent property and the pose-only solution. Evaluations using simulations and publicly available practical 2D laser datasets confirm the outperformance of our proposed method compared to the state-of-the-art methods in terms of efficiency and accuracy, as well as the ability to solve the grid-based SLAM problem in very large-scale environments.},
+    video={https://youtu.be/jZEnyrKXRBw},
+    preview={iros2024.gif},
+    arxiv={2501.12764},
+    selected={false}
+} 
 
-@article{song2025affineEKF,
-  title={Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency},
-  author={Song, Yang and Zhao, Liang and Huang, Shoudong},
-  journal={IEEE Transactions on Robotics},
-  year={2025},
-  Abstract= {Inconsistency issue is one crucial challenge for the performance of extended Kalman filter (EKF) based methods for state estimation problems, which is mainly affected by the discrepancy of observability between the EKF model and the underlying dynamic system. In this work, some sufficient and necessary conditions for observability maintenance are first proved. We find that under certain conditions, an EKF can naturally maintain correct observability if the corresponding linearization makes unobservable subspace independent of the state values. Based on this theoretical finding, a novel affine EKF (Aff-EKF) framework is proposed to overcome the inconsistency of standard EKF (Std-EKF) by affine transformations, which not only naturally satisfies the observability constraint but also has a clear design procedure. The advantages of our Aff-EKF framework over some commonly used methods are demonstrated through mathematical analyses. The effectiveness of our proposed method is demonstrated on three simultaneous localization and mapping (SLAM) applications with different types of features, typical point features, point features on a horizontal plane and plane features. Specifically, following the proposed procedure, the naturally consistent Aff-EKFs can be explicitly derived for these problems. The consistency improvement of these Aff-EKFs are validated by Monte Carlo simulations.},
-  preview={affineEKF.jpg},
-  url={https://arxiv.org/pdf/2412.10809},
-  code = {https://github.com/YangSONG-SLAM/Affine-EKF},
-  selected={true},
-  publisher={IEEE}
-}
 
 
 
