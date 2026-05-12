@@ -7,4 +7,4 @@ related_posts: false
 
 We are excited to announce that we will host the **Robotics: Science and Systems (RSS) 2026** conference!  
 
-Watch the welcome video [here]({{ site.baseurl }}/assets/video/welcome%20RSS2026.mp4).  
+Watch the welcome video [here]({{ site.baseurl }}/assets/video/RSS2026.mov).  
