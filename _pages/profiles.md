@@ -16,13 +16,9 @@ groups:
   - name: "Postdoc"
     profiles:
       - name: "Tiancheng Li"
-        image: TianchengLi.jpg
+        image: TianchengLi.jpeg
         image_circular: true
         url: "https://tianchengli-robotics.github.io/"
-      - name: "Yingyu Wang"
-        image: YingyuWang.png
-        image_circular: true
-        url: "https://wangyingyu.github.io"
   - name: "PhD Students"
     profiles:
       - name: "Kai Pan"
@@ -75,6 +71,10 @@ groups:
         url: "https://ranxiliu-uts.github.io"
   - name: "Alumni"
     profiles:
+      - name: "Yingyu Wang"
+        image: YingyuWang.png
+        image_circular: true
+        url: "https://wangyingyu.github.io"
       - name: "Yang Song"
         image: Yang_Song.jpg
         image_circular: true
