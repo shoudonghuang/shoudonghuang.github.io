@@ -131,6 +131,11 @@ groups:
         image: Fang_Bai.jpeg
         image_circular: true
         url: "https://fangbai.bitbucket.io"
+      - name: "Ki Myung Brian Lee"
+        image: Ki.jpeg
+        image_circular: true
+        url: "https://kmblee.github.io/" 
+        
 ---
 
 {% for group in page.groups %}
