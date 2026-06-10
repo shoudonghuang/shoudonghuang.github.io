@@ -134,7 +134,7 @@ groups:
       - name: "K. M. Brian Lee"
         image: BrianLee.jpeg
         image_circular: true
-        url: "https://kmblee.github.io/"
+        url: "https://kmblee.github.io/" 
 ---
 
 {% for group in page.groups %}
