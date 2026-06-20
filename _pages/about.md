@@ -40,7 +40,9 @@ Since 2007, as a Chief Investigator, I have secured external research funding wo
 
 ### Editorial Roles
 
-- **Associate Editor**: International Journal of Robotics Research (2024-2025), IEEE Transactions on Robotics (2019-2022)
+- **Associate Editor**: International Journal of Robotics Research (2024-present), IEEE Transactions on Robotics (2019-2022)
+
+- **Local Arrangements Chair**: Robotics: Science and Systems 2026
 
 - **Registration Chair**: Robotics: Science and Systems 2023
 
