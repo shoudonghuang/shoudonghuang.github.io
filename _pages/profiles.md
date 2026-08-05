@@ -57,18 +57,16 @@ groups:
         image: ZhuhuaBai.jpg
         image_circular: true
         url: "https://xiaobaitu123321.github.io/"
+      - name: "Ranxi Liu"
+        image: RanxiLiu.png
+        image_circular: true
+        url: "https://ranxiliu-uts.github.io"
   - name: "Master Student"
     profiles:
       - name: "Duc"
         image: Duc.png
         image_circular: true
         url: "https://www.linkedin.com/in/van-minh-duc-nguyen-66ab86249/"
-  - name: "Visiting"
-    profiles:
-      - name: "Ranxi Liu"
-        image: RanxiLiu.png
-        image_circular: true
-        url: "https://ranxiliu-uts.github.io"
   - name: "Alumni"
     profiles:
       - name: "Yingyu Wang"
